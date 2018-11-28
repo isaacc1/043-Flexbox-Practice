@@ -1,0 +1,43 @@
+.sample1{
+    border:dotted blue 5px;
+    padding:10px;
+    margin:20px;
+    background-color:DarkKhaki;
+    display:flex;
+    justify-content:center;
+    }
+.sample1 .item{
+    border:solid darkmagenta 5px;
+    background-color:darkolivegreen;
+    color:crimson;
+    margin:5px;
+    padding:10px;
+    }
+.sample2{
+    border:dotted blue 5px;
+    padding:10px;
+    margin:20px;
+    background-color:DarkKhaki;
+    display:flex;
+    justify-content:space-between;}
+.sample2 .item{
+    border:solid darkmagenta 5px;
+    background-color:darkolivegreen;
+    color:crimson;
+    padding:10px;
+    }
+.sample3{
+    border:dotted blue 5px;
+    padding:10px;
+    margin:20px;
+    background-color:DarkKhaki;
+    display:flex;
+    justify-content:flex-end;
+    }
+    .sample3 .item{
+        border:solid darkmagenta 5px;
+    background-color:darkolivegreen;
+    color:crimson;
+    margin:5px;
+    padding:10px;
+        }
